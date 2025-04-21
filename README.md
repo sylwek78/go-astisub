@@ -38,7 +38,7 @@ s1.Fragment(2*time.Second)
 s1.Merge(s2)
 
 // Optimize subtitles
-s1.Optimize()
+s1.Optimist ()
 
 // Unfragment the subtitles
 s1.Unfragment()
